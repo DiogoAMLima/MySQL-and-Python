@@ -32,25 +32,25 @@ Espero que esses exemplos de conexão Python com MySQL sejam úteis para você e
 Python Connection with MySQL and CRUD Operations
 This repository houses some examples that demonstrate different approaches to establish connections between the Python programming language and a MySQL database. Efficient interaction between Python and MySQL is essential for developers looking to build robust and scalable applications that involve data storage and retrieval.
 
-Overview
+Overview:
 Each folder in this repository corresponds to a specific Python-MySQL connection project. Each project is independent and can be used as a reference for different development scenarios. Below is a brief description of each project:
 
 The code demonstrates a simple connection: It shows how to establish a basic connection to a MySQL database using the mysql-connector-python library. This is a fundamental starting point for connections.
 
 CRUD operations - CREATE - READ - UPDATE - DELETE.
 
-Prerequisites
+Prerequisites:
 Python 3.x installed in your environment.
 MySQL Server installed and configured.
 Installation of the Python library (pip install MySQL-python).
 
-How to Use
+How to Use:
 Creating a connection to the database is simple and only requires a few lines of code, as do the commands for CRUD operations. Each code provides an example of how to do it.
 
-Contributions
+Contributions:
 Feel free to contribute to improvements, new projects, or bug fixes. Open an issue or send a pull request, and we will be happy to review and incorporate it into the repository.
 
-License
+License:
 This repository is provided under the MIT license. Feel free to use, modify, and distribute it as needed, while respecting the terms of the license.
 
 I hope these examples of Python connection with MySQL are useful to you and help you build fantastic applications. Happy coding!
